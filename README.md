@@ -9,3 +9,5 @@ When a user selects a type of coffee and inserts coins of different denomination
 <p>
 Additionally, each time a coffee is dispensed, the resources in the machine are deducted based on the requirements of the selected coffee type. This ensures that the machine accurately tracks its inventory of ingredients.
 </p>
+
+![Screenshot 2024-01-14 003251](https://github.com/rohit2701singh/coffee-machine-day15/assets/156118970/1c4c6301-70ec-45d9-8f71-bb2d5ffd5f16)
