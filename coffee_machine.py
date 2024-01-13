@@ -1,13 +1,6 @@
 from art import logo
 from menu_item import MENU, profit, resources
 
-# TODO:1. ask user about what kind of coffee they want. if user want to know about the resources left provide the
-#  resources list.
-# TODO:2. ask user to enter different amount of coins.
-# TODO:3. calculate the total inserted coin and then return extra coin along with coffee if coins were sufficient,
-#  otherwise refund the coins.
-# TODO:4. deduct resources everytime when coffee is made.
-
 
 def report_resources_left(user_coffee_choice):
     """it will deduct resources based on user's coffee choice."""
